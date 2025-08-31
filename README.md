@@ -1,7 +1,7 @@
 
 
 
-# Machine Learning for Healthcare Analytics Projects
+# My college project 
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789536591 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover_8.png" alt="Machine Learning for Healthcare Analytics Projects" height="256px" align="right"></a>
 
